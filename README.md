@@ -11,10 +11,12 @@
 ## Referensi
 
 * [Registrasi Beta waitlist](https://fleek.xyz/)
+
 * Dokumen resmi
   * [Fleek Network: Getting Started Guide](https://blog.fleek.co/posts/fleek-network-getting-started-guide)
   * [Fleek Network: How to install Rust and the dependencies for Ursa CLI](https://blog.fleek.co/posts/fleek-network-how-to-install-rust-and-the-dependencies-for-ursa-cli)
   * [https://blog.fleek.co/posts/fleek-network-running-a-node-in-a-docker-container](https://blog.fleek.co/posts/fleek-network-running-a-node-in-a-docker-container)
+
 * [Server Discord](https://discord.gg/fleekxyz)
 
 ## Spesifikasi Software & Hardware
