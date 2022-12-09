@@ -26,7 +26,7 @@
 | Komponen | Spesifikasi minimal |
 |----------|---------------------|
 |CPU|4 Cores|
-|RAM|32 GB DDR4 RAM|
+|RAM|8 GB DDR4 RAM|
 |Penyimpanan|1 TB HDD|
 |Koneksi|10Mbit/s port|
 
