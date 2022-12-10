@@ -130,7 +130,7 @@
 * Update Makefile
   ```console
   rm Makefile
-  https://raw.githubusercontent.com/bayy420-999/Tutorial-testnet-Fleek-Airdrop-Finder/master/Makefile
+  wget -q https://raw.githubusercontent.com/bayy420-999/Tutorial-testnet-Fleek-Airdrop-Finder/master/Makefile
   ```
 * Instal `Ursa-cli`
   ```console
